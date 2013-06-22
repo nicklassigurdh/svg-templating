@@ -1,0 +1,9 @@
+{
+    "name": "svg-templating",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt-contrib-connect" : "0.3.0",
+        "grunt": "~0.4.1"
+
+    }
+}
